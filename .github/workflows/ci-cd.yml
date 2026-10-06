@@ -13,10 +13,10 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  AWS_ACCOUNT_ID: 851725513597
-  ECR_REGISTRY: 851725513597.dkr.ecr.us-east-1.amazonaws.com
-  BACKEND_IMAGE: 851725513597.dkr.ecr.us-east-1.amazonaws.com/code-playground-backend
-  FRONTEND_IMAGE: 851725513597.dkr.ecr.us-east-1.amazonaws.com/code-playground-frontend
+  AWS_ACCOUNT_ID: 178280182120
+  ECR_REGISTRY: 178280182120.dkr.ecr.us-east-1.amazonaws.com
+  BACKEND_IMAGE: 178280182120.dkr.ecr.us-east-1.amazonaws.com/code-playground-backend
+  FRONTEND_IMAGE: 178280182120.dkr.ecr.us-east-1.amazonaws.com/code-playground-frontend
   ECS_CLUSTER: code-playground-production
 
 jobs:
